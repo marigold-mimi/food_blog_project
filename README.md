@@ -10,5 +10,3 @@
 
 ### Posts page
 ![posts page](https://i.ibb.co/pwSM5Y7/posts-classic-gravy.png)
-
-
