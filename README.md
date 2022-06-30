@@ -13,4 +13,4 @@
 
 ## Mobile
 ### Front page
-![front page m](https://i.ibb.co/FmngmPy/front-page-mobile-classic-gravy.png)
+![front page m](https://i.ibb.co/FmngmPy/front-page-mobile-classic-gravy.png) 
