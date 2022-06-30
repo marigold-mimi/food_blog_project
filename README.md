@@ -10,3 +10,7 @@
 
 ### Posts page
 ![posts page](https://i.ibb.co/pwSM5Y7/posts-classic-gravy.png)
+
+## Mobile
+### Front page
+![front page m](https://i.ibb.co/FmngmPy/front-page-mobile-classic-gravy.png)
