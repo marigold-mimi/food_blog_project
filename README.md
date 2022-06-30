@@ -4,3 +4,11 @@
 
 ### Recipes page
 ![recipes page](https://i.ibb.co/kqVfBv3/recipes-classic-gravy.png)
+
+### Cookbooks page
+![cookbooks page](https://i.ibb.co/yPktdnw/cookboos-classic-gravy.png)
+
+### Posts page
+![posts page](https://i.ibb.co/pwSM5Y7/posts-classic-gravy.png)
+
+
